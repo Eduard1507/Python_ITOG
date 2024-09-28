@@ -1,0 +1,42 @@
+a {
+    text-decoration: none;
+    }
+
+.link_1 {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+.link_2 {
+    color: rgb(58, 181, 27);
+    font-size: 16px;
+    line-height: 20px;
+}
+.link_3 {
+    color: rgb(159, 10, 10);
+    font-size: 16px;
+    line-height: 20px;
+}
+.link_4 {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+.picture {
+    border-radius: 10px;
+}
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+.link_5 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
