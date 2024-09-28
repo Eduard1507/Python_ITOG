@@ -22,16 +22,7 @@ a {
     font-size: 28px;
     line-height: 36px;
     font-weight: bold;
-}
-.picture {
-    border-radius: 10px;
-}
-.text {
-    font-style: normal;
-    font-weight: 300;
-    font-size: 18px;
-    line-height: 30px;
-    color: #7D7987
+    transform: translateX(500px)
 }
 .link_5 {
     color: coral;
@@ -39,4 +30,32 @@ a {
     font-weight: 700;
     font-size: 36px;
     line-height: 80px;
+    transform: translateZ(400px) 
+}
+.link_6 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+    transform: translateX(400px)
+}
+.link_7 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+    transform: translateX(420px)
+}
+.picture {
+    border-radius: 10px;
+    transform: translateX(500px)
+}
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
 }
